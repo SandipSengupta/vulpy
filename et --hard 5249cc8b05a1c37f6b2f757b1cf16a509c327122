@@ -1,0 +1,271 @@
+[33mcommit cdbd4866e2f435b1af3d803ce9d069d9f6008576[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SandipSengupta <mailsengupta@gmail.com>
+Date:   Sun Jul 7 20:47:19 2024 +0200
+
+    adding test files
+
+[33mcommit 5249cc8b05a1c37f6b2f757b1cf16a509c327122[m
+Author: Fabian Martinez Portantier <fportantier@securetia.com>
+Date:   Mon Sep 14 19:43:23 2020 -0300
+
+    new origin repo (portantier -> fportantier)
+
+[33mcommit 0b805725f9237bee5b9bdeeb8b6a71a57ade0c3b[m
+Author: Fabian Martinez Portantier <fportantier@securetia.com>
+Date:   Mon Sep 14 19:42:11 2020 -0300
+
+    portantier -> fportantier
+
+[33mcommit 0055ef29e3a3f6cf40371555a216474b24f46bb4[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Thu Jun 13 23:37:38 2019 -0300
+
+    improvements
+
+[33mcommit 567663f0fd2d23e04d239fee83dc8784fa86af41[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Thu Jun 13 13:03:52 2019 -0300
+
+    email -> username
+
+[33mcommit 0f7bee37b9807c97da933c480e1d90d07243dc7a[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Thu Jun 13 11:16:34 2019 -0300
+
+    Insecure Deserialization and del unn files
+
+[33mcommit d0ac64b281393f95e7821bba5f64c4d4ca857205[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Thu Jun 13 10:29:42 2019 -0300
+
+    removed setup -e .
+
+[33mcommit 2018ee3c7d2a05ddd42a0eea6008fbb9c770774f[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Jun 12 23:39:24 2019 -0300
+
+    height 100%
+
+[33mcommit f871a9ec9b70d176ab236237947ef29eac894d6b[m
+Merge: 730df17 0e0844b
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Jun 12 17:12:53 2019 -0300
+
+    Merge branch 'master' of github.com:portantier/vulpy
+
+[33mcommit 730df1745a51e561004777fde7254d57b442c5da[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Jun 12 17:12:23 2019 -0300
+
+    some comments
+
+[33mcommit 0e0844bccff5a88d6eb03ebe34011af8f3972836[m
+Merge: 6f76026 b853f33
+Author: Fabian Martinez Portantier <portantier@users.noreply.github.com>
+Date:   Wed Jun 12 16:54:16 2019 -0300
+
+    Merge pull request #2 from portantier/add-license-1
+    
+    Create LICENSE
+
+[33mcommit b853f33ea92b2a5e97d3e7d758ec4d96ae9fb365[m[33m ([m[1;31morigin/add-license-1[m[33m)[m
+Author: Fabian Martinez Portantier <portantier@users.noreply.github.com>
+Date:   Wed Jun 12 16:54:00 2019 -0300
+
+    Create LICENSE
+
+[33mcommit 6f76026d9075632f07b6060520ca4f4641bbb427[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Jun 12 13:34:12 2019 -0300
+
+    background images. gitignore sqlite files
+
+[33mcommit caf919a6d02d8764b1f947b506e80c2bde60f73f[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Jun 12 01:20:52 2019 -0300
+
+    path
+
+[33mcommit afb15fd2597bfc2f66997f5f876f00fde006c1b6[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 18:03:12 2019 -0300
+
+    rem unn files
+
+[33mcommit 1ca2a25efc57fd4c93e69a048728c9c434d13bc7[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 18:00:55 2019 -0300
+
+    path
+
+[33mcommit 7904209e8c0457fb99c6e3ccb9eeaae038a43ca2[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:55:25 2019 -0300
+
+    fixes
+
+[33mcommit e0254e15263aaf76de95d57da51b4aec79947c3f[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:43:49 2019 -0300
+
+    r
+
+[33mcommit acc5fc8570c01e9d320c221739f1cc1e63196e07[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:43:25 2019 -0300
+
+    r
+
+[33mcommit 8670cf4c3aa2e8d3e9bbd4d9b6a2effb64fb6e4d[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:43:10 2019 -0300
+
+    r
+
+[33mcommit f529090c7ad16ebb9763882e4509b678a6cb1dbc[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:42:34 2019 -0300
+
+    readme
+
+[33mcommit cce175f47c3a0daa81e5b68b35e1117df8077326[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:41:02 2019 -0300
+
+    rem unn files
+
+[33mcommit 6a0063a259c572c5e07136cc0df76653e7bf37d0[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 17:37:42 2019 -0300
+
+    fixes and improvements
+
+[33mcommit e387dda5bbd3bb125c3ce317c2a9680ac2ba6eac[m
+Merge: f685805 e69730b
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 01:31:19 2019 -0300
+
+    Merge branch 'master' of github.com:portantier/vulpy
+
+[33mcommit f6858051a8df94204fa5735a8ac19b0ac7e4157c[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Jun 11 01:31:04 2019 -0300
+
+    api
+
+[33mcommit e69730bfe469b4e5109a8fe75b25e77482b39bc7[m
+Author: root <root@localhost.localdomain>
+Date:   Tue May 28 10:26:07 2019 -0300
+
+    new script
+
+[33mcommit 5f462cc93277055b4e9a4a5d0c970928b2010b69[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 16 17:55:36 2019 -0300
+
+    fixes
+
+[33mcommit 710f4de91c5f823abcf0b464f3ede1e4e47ca8a2[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 16 13:10:04 2019 -0300
+
+    new bruteforce
+
+[33mcommit a412d9ace4f5149f46d5ea3797bc1ed90dbe54c3[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 19:36:18 2019 -0300
+
+    gitignore
+
+[33mcommit a35a49c33e593f6441505b7407ecb9bd4885d8ca[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 19:35:30 2019 -0300
+
+    moved utils to main dir
+
+[33mcommit 450068d38239ec4a00833109f2ce9d5e9f92e563[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 19:32:39 2019 -0300
+
+    migrated to click
+
+[33mcommit 701cca8a03186de73d729befae32783fa460ac85[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 19:23:26 2019 -0300
+
+    migrated to click
+
+[33mcommit dc7435b4b76ee753594dc64a89136b5fc5e75551[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 19:13:15 2019 -0300
+
+    migrated to click
+
+[33mcommit 9e33700b1f4c3efc7f2c260c837ed17c56129f3a[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 18:53:17 2019 -0300
+
+    migrated to click
+
+[33mcommit 8a58f64866775d5e41844ca77243ce2a1e12ba50[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 9 18:41:38 2019 -0300
+
+    utils moved and hashfile only with cryptography mod
+
+[33mcommit af7d1bb5de0e5dd8fb2261854acaf22ff062d400[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Apr 3 00:02:05 2019 -0300
+
+    minor fix
+
+[33mcommit 6494092af9e18fc445d6994a2e17446ec36a92a7[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Apr 3 00:01:43 2019 -0300
+
+    minor fixes
+
+[33mcommit 364738c9b7b679e1ec6e7823671952b01697251a[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 2 23:41:19 2019 -0300
+
+    deleted old code
+
+[33mcommit 877c0f901227ac554ac220ed4aa2a974c450ec45[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 2 23:30:15 2019 -0300
+
+    deleted
+
+[33mcommit af976891b9f7ed4a9620e929ede0e959366990c5[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Apr 2 23:29:40 2019 -0300
+
+    fixes
+
+[33mcommit bd6a75ab9eb4e4a9d1718b710ec492140aee7cc2[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Mar 26 14:32:00 2019 -0300
+
+    new structure
+
+[33mcommit 60e8cb8d0451cfd57b0162554d101a3c2ae73a67[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Tue Mar 26 14:20:33 2019 -0300
+
+    new structure
+
+[33mcommit 323f3099abb405b7f5784a54609090a209e81809[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Thu Aug 2 01:21:00 2018 -0300
+
+    api security
+
+[33mcommit c87042a203203270ca0eebce14b0fc1481d23703[m
+Author: Fabian Martinez Portantier <fabian@portantier.com>
+Date:   Wed Aug 1 18:30:50 2018 -0300
+
+    APIs
+
+[33mcommit 41f1848a7099a926cf7c641b5705d7f96d89b924[m
+Author: Fabian Martinez Portantier <fabia
